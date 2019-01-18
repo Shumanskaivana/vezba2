@@ -1,0 +1,41 @@
+.bgfirst{
+	background-image: linear-gradient(to right, blue,lightblue,violet,purple);
+	height: 90vh;
+	position: relative;
+}
+.size{
+	font-size: 270px;
+	position: fixed;
+	top: 130px;
+	opacity: 0.2;
+}
+.sizeh{
+	font-weight: bold;
+	font-size: 50px;
+}
+.white{
+	color: white;
+	font-family: work-sans;
+}
+.fsize{
+	font-size: 30px;
+	word-spacing: 5px;
+}
+.white button{
+	font-weight: bold;
+	color: red;
+	padding-left: 35px;
+	padding-right: 35px;
+	border-radius: 50px;
+	margin-top: 10px;
+}
+.pad{
+	padding-top: 150px;
+}
+.padtopbot{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+
+
