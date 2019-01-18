@@ -1,3 +1,4 @@
+
 .bgfirst{
 	background-image: linear-gradient(to right, blue,lightblue,violet,purple);
 	height: 90vh;
@@ -37,5 +38,12 @@
 	padding-bottom: 5px;
 }
 
-
-
+.navbar button {
+    margin-top: 7px;
+    width: 140px;
+    border-radius: 30px;
+}
+.flou {
+    font-size: 27px!important;
+    color: black!important;
+}
